@@ -1,0 +1,60 @@
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+AllCops:
+  NewCops: enable
+
+Style/OptionalBooleanParameter:
+  Enabled: false
+
+Metrics/BlockLength:
+  Max: 150
+
+Metrics/ClassLength:
+  Enabled: false
+  # Max: 150
+
+Metrics/ModuleLength:
+  Enabled: false
+  # Max: 150
+
+Metrics/MethodLength:
+  Max: 15
+  Enabled: false # TODO Fix
+
+Metrics/CyclomaticComplexity:
+  Enabled: false
+
+Metrics/PerceivedComplexity:
+  Max: 20
+
+Metrics/AbcSize:
+  Enabled: false
+
+Style/RedundantFileExtensionInRequire:
+  Enabled: false
+
+Naming/MethodParameterName:
+  Enabled: false
+
+Metrics/ParameterLists:
+  Enabled: false
+
+Style/GlobalVars:
+  Enabled: false
+
+# Fn.each
+Style/SymbolProc:
+  Enabled: false
+
+Style/RandomWithOffset:
+  Enabled: false
+
+Style/SlicingWithRange:
+  Enabled: false
+
+Style/Sample:
+  Enabled: false
+
+Naming/VariableNumber:
+  Enabled: false

@@ -1,0 +1,6 @@
+devid=dishcandanty
+devtitle=SpriteSheetVsFiles
+gameid=sample-app
+gametitle=Sample App
+version=1.0
+icon=sprites/icon.png
